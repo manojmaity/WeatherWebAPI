@@ -18,18 +18,10 @@ namespace WeatherApp.API.Tests.Controllers
             WeatherController controller = new WeatherController(service);
 
             //Act
-             //var msg = await controller.Get(1);
+            var msg = await controller.Get(1);
 
-            //Task.Delay(100).Wait();
             //Assert
-            //Assert.IsNotNull(msg);
-
-           await Task.Run(async () =>
-            {
-                var msg = await controller.Get(1);
-                Assert.IsNotNull(msg);
-            });
-
+            Assert.IsNotNull(msg);
 
         }
     }
