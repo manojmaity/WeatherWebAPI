@@ -1,0 +1,6 @@
+E:\Old Data\Practice\WeatherApp\WeatherApp.Common\bin\Debug\WeatherApp.Common.dll
+E:\Old Data\Practice\WeatherApp\WeatherApp.Common\bin\Debug\WeatherApp.Common.pdb
+E:\Old Data\Practice\WeatherApp\WeatherApp.Common\obj\Debug\WeatherApp.Common.csproj.CoreCompileInputs.cache
+E:\Old Data\Practice\WeatherApp\WeatherApp.Common\obj\Debug\WeatherApp.Common.dll
+E:\Old Data\Practice\WeatherApp\WeatherApp.Common\obj\Debug\WeatherApp.Common.pdb
+E:\Old Data\Practice\WeatherApp\WeatherApp.Common\obj\Debug\WeatherApp.Common.csprojAssemblyReference.cache

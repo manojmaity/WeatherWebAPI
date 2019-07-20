@@ -1,0 +1,5 @@
+E:\Old Data\Practice\WeatherApp\WeatherApp.Model\bin\Debug\WeatherApp.Model.dll
+E:\Old Data\Practice\WeatherApp\WeatherApp.Model\bin\Debug\WeatherApp.Model.pdb
+E:\Old Data\Practice\WeatherApp\WeatherApp.Model\obj\Debug\WeatherApp.Model.csproj.CoreCompileInputs.cache
+E:\Old Data\Practice\WeatherApp\WeatherApp.Model\obj\Debug\WeatherApp.Model.dll
+E:\Old Data\Practice\WeatherApp\WeatherApp.Model\obj\Debug\WeatherApp.Model.pdb

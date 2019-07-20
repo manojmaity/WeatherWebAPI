@@ -1,0 +1,15 @@
+E:\Old Data\Practice\WeatherApp\WeatherApp.Service\bin\Debug\WeatherApp.Service.dll.config
+E:\Old Data\Practice\WeatherApp\WeatherApp.Service\bin\Debug\WeatherApp.Service.dll
+E:\Old Data\Practice\WeatherApp\WeatherApp.Service\bin\Debug\WeatherApp.Service.pdb
+E:\Old Data\Practice\WeatherApp\WeatherApp.Service\bin\Debug\Newtonsoft.Json.dll
+E:\Old Data\Practice\WeatherApp\WeatherApp.Service\bin\Debug\System.Net.Http.Extensions.dll
+E:\Old Data\Practice\WeatherApp\WeatherApp.Service\bin\Debug\System.Net.Http.Formatting.dll
+E:\Old Data\Practice\WeatherApp\WeatherApp.Service\bin\Debug\System.Net.Http.Primitives.dll
+E:\Old Data\Practice\WeatherApp\WeatherApp.Service\bin\Debug\WeatherApp.Model.dll
+E:\Old Data\Practice\WeatherApp\WeatherApp.Service\bin\Debug\WeatherApp.Model.pdb
+E:\Old Data\Practice\WeatherApp\WeatherApp.Service\bin\Debug\Newtonsoft.Json.xml
+E:\Old Data\Practice\WeatherApp\WeatherApp.Service\obj\Debug\WeatherApp.Service.csprojAssemblyReference.cache
+E:\Old Data\Practice\WeatherApp\WeatherApp.Service\obj\Debug\WeatherApp.Service.csproj.CoreCompileInputs.cache
+E:\Old Data\Practice\WeatherApp\WeatherApp.Service\obj\Debug\WeatherApp.Service.csproj.CopyComplete
+E:\Old Data\Practice\WeatherApp\WeatherApp.Service\obj\Debug\WeatherApp.Service.dll
+E:\Old Data\Practice\WeatherApp\WeatherApp.Service\obj\Debug\WeatherApp.Service.pdb
